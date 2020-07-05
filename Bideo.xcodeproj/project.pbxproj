@@ -34,6 +34,9 @@
 		B8966CDD24B1C42700F02557 /* addVideo.png in Resources */ = {isa = PBXBuildFile; fileRef = B8966CDC24B1C42700F02557 /* addVideo.png */; };
 		B8966CDF24B1C54C00F02557 /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = B8966CDE24B1C54C00F02557 /* add.png */; };
 		B8966CE124B1C74C00F02557 /* go.png in Resources */ = {isa = PBXBuildFile; fileRef = B8966CE024B1C74C00F02557 /* go.png */; };
+		B8966CE324B20E9E00F02557 /* icon1.png in Resources */ = {isa = PBXBuildFile; fileRef = B8966CE224B20E9E00F02557 /* icon1.png */; };
+		B8966CE524B20EFE00F02557 /* icon2.png in Resources */ = {isa = PBXBuildFile; fileRef = B8966CE424B20EFE00F02557 /* icon2.png */; };
+		B8966CE724B20F3700F02557 /* icon3.png in Resources */ = {isa = PBXBuildFile; fileRef = B8966CE624B20F3700F02557 /* icon3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +69,9 @@
 		B8966CDC24B1C42700F02557 /* addVideo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = addVideo.png; path = Bideo/addVideo.png; sourceTree = SOURCE_ROOT; };
 		B8966CDE24B1C54C00F02557 /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = add.png; path = Bideo/add.png; sourceTree = SOURCE_ROOT; };
 		B8966CE024B1C74C00F02557 /* go.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = go.png; path = Bideo/go.png; sourceTree = SOURCE_ROOT; };
+		B8966CE224B20E9E00F02557 /* icon1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon1.png; path = Bideo/icon1.png; sourceTree = SOURCE_ROOT; };
+		B8966CE424B20EFE00F02557 /* icon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon2.png; path = Bideo/icon2.png; sourceTree = SOURCE_ROOT; };
+		B8966CE624B20F3700F02557 /* icon3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon3.png; path = Bideo/icon3.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +124,9 @@
 		B8094736249E662A008BCC8A /* Figures */ = {
 			isa = PBXGroup;
 			children = (
+				B8966CE624B20F3700F02557 /* icon3.png */,
+				B8966CE424B20EFE00F02557 /* icon2.png */,
+				B8966CE224B20E9E00F02557 /* icon1.png */,
 				B8966CE024B1C74C00F02557 /* go.png */,
 				B8966CDE24B1C54C00F02557 /* add.png */,
 				B8966CDC24B1C42700F02557 /* addVideo.png */,
@@ -229,11 +238,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8094727249E56A0008BCC8A /* LaunchScreen.storyboard in Resources */,
+				B8966CE524B20EFE00F02557 /* icon2.png in Resources */,
 				B8966CD724B1BF8D00F02557 /* third.png in Resources */,
 				B8966CD124B1B91700F02557 /* bideo.png in Resources */,
 				B8094724249E56A0008BCC8A /* Assets.xcassets in Resources */,
 				B809471F249E569F008BCC8A /* Main.storyboard in Resources */,
 				B8966CE124B1C74C00F02557 /* go.png in Resources */,
+				B8966CE324B20E9E00F02557 /* icon1.png in Resources */,
+				B8966CE724B20F3700F02557 /* icon3.png in Resources */,
 				B8966CDB24B1C20000F02557 /* five.png in Resources */,
 				B8966CD324B1BCAE00F02557 /* First.png in Resources */,
 				B8966CDF24B1C54C00F02557 /* add.png in Resources */,
